@@ -1,0 +1,9 @@
+### TEST
+GET http://localhost:8080/test/media-file
+Authorization: test
+
+### TEST2
+GET http://localhost:8081/test
+
+### TEST3
+GET http://localhost:8080/actuator/gateway
